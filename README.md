@@ -1,6 +1,6 @@
 - Old CCNA currently working with security integrations
 - I worked with Zabbix for a bunch of time (I'm a ZCP4.0)
-- I'm a Grafana Champion working on oficial communities ([Forum](https://community.grafana.com/) and [Slack](https://join.slack.com/t/grafana/shared_invite/zt-23p8cejz5-jrcEei5SIKyXPqVlLosJag)) and also on [Brazil's Telegram group](https://t.me/grafanabr)
+- I'm a Grafana Champion helping at oficial communities ([Forum](https://community.grafana.com/) and [Slack](https://join.slack.com/t/grafana/shared_invite/zt-23p8cejz5-jrcEei5SIKyXPqVlLosJag)) and also at [Brazil's Telegram group](https://t.me/grafanabr)
 - Slowly and steady learning good pratices for development with python
 - pt_BR - Curso com 40 aulas de [Grafana para Zabbix no YouTube](https://www.youtube.com/playlist?list=PLTAdaA8clXXK9A9rPjBKqxho4AGSTb6un)
 - pt_BR - Artigos técnicos no [Medium](https://isaqueprofeta.medium.com/)
